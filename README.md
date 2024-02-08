@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 🔭 I’m currently building Africa's First AI-Powered Ecosystem for Diabetes Management [@FundusAI LTD](https://www.fundusai.com)
+- 🔭 I’m currently building Africa's First AI-Powered Ecosystem for Diabetes Care [@FundusAI LTD](https://www.fundusai.com)
 
 - 🌱 I’m currently learning **LangChain**
 
