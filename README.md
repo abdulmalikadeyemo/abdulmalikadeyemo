@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently building Africa's First AI-Powered Ecosystem for Personalized Diabetes Care [@FundusAI LTD](https://www.fundusai.com)
 
-- 🌱 I’m currently learning **LangChain**
+- 🌱 I build LLM-Powered Applications with **LangChain**
 
 - 👨‍💻 All of my projects are available at [https://abdulmalikadeyemo.github.io/](https://abdulmalikadeyemo.github.io/)
 
