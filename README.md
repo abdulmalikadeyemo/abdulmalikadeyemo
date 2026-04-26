@@ -13,7 +13,7 @@
 
 - 🩺 Previously founded **FundusAI**, building AI-powered tools for diabetes care in Africa
 
-- 💬 Ask me about **multi-agent LLM systems, LLM-as-Judge evaluation, contestable AI, and human-in-the-loop architectures**
+- 💬 Ask me about **multi-agent LLM systems, Adaptive AI, LLM-as-Judge evaluation, contestable AI, and human-in-the-loop architectures**
 
 - 📫 Reach me at **abdulmalikadeyemo@outlook.com**
 
